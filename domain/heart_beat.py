@@ -1,7 +1,7 @@
-import socket
 import threading
 import time
 from infraestructure.multicast_socket import MultiCastSocketFactory
+
 class HeartbeatProcess:
     def __init__(self, process_name, send_interval, receive_interval):
         self.process_name = process_name
