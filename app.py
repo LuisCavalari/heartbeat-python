@@ -26,6 +26,7 @@ if __name__ == '__main__':
     try:
         # Mantém a função principal em execução
         while True:
+            print('Processos OK')
             time.sleep(1)
     except KeyboardInterrupt:
         # Interrompe a execução dos processos ao pressionar Ctrl+C
