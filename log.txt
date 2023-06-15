@@ -1,0 +1,23 @@
+================================================================================
+Inicio da execucao: programa que implementa lista em vetor para ilustrar log.
+Luis Felipe Cavalari.  -  Disciplina Fundamentos de redes e sistemas distribuidos
+=================================================================================
+Inicio do programa
+Inicia P1
+Inicia P2
+Inicia P3 
+Inicia P4
+Lista de suspeitos de P1 = []
+Lista de suspeitos de P2 = []
+Lista de suspeitos de P3 = []
+Lista de suspeitos de P4 = []
+P4 é morto 
+Lista de suspeitos de P1 = ['P4']
+Lista de suspeitos de P2 = ['P4']
+Lista de suspeitos de P3 = ['P4']
+P2 é morto
+Lista de suspeitos de P1 = ['P4', 'P3']
+Lista de suspeitos de P3 = ['P4', 'P3']
+Programa é interrompido com CTRL + C 
+Finaliza P1
+Finaliza P3
